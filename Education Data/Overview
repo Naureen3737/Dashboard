@@ -1,1 +1,12 @@
+# 🎓 Education Dashboard Overview
 
+An Excel dashboard built using a Pakistan education dataset with **pivot tables and charts**.
+
+## 🔹 Highlights
+- Tracks literacy and enrollment rates  
+- Region-wise education statistics  
+- Gender-based comparisons  
+- Visual KPIs and interactive insights  
+
+## 📂 File
+- **pakistan_edu Pivot table+charts.xlsx**
