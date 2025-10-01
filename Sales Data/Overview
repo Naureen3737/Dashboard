@@ -1,1 +1,12 @@
+# 📊 Sales Dashboard Overview
 
+An interactive Excel dashboard built on sales data to analyze key business metrics.
+
+## 🔹 Highlights
+- Tracks total sales and revenue trends  
+- Region and product-wise performance  
+- Top customers and products  
+- Interactive filters with pivot tables  
+
+## 📂 File
+- **Sample_Sales_Data.xlsx**
