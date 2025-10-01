@@ -1,1 +1,12 @@
-cgf
+# 🏥 Health Dashboard Overview
+
+An Excel dashboard created using Pakistan health dataset with pivot tables and charts.
+
+## 🔹 Highlights
+- Tracks key health indicators and trends  
+- Region-wise comparison of healthcare data  
+- Visual KPIs for better understanding  
+- Interactive filters for data exploration  
+
+## 📂 File
+- **Pakistan_Health_Data Pivot table.xlsx**
