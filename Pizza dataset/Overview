@@ -1,4 +1,17 @@
-🟨 Pizza Sales Dashboard
-Dataset: Pizza sales data
-Features: Category-wise comparison with multiple fields (sales, quantity, revenue, etc.), interactive KPIs, trend analysis, and visual insights for better understanding of sales performance.
-File: Pizza_Sales_Dashboard.xlsx
+🍕 Pizza Sales Dashboard Overview
+
+An Excel dashboard built using a pizza sales dataset with pivot tables and charts.
+
+🔹 Highlights
+
+Category-wise sales comparison (pizza type, size, etc.)
+
+Revenue and quantity analysis
+
+Top-selling categories and trends
+
+Visual KPIs and interactive insights
+
+📂 File
+
+Pizza_Sales_Dashboard.xlsx
